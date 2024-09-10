@@ -1,5 +1,28 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+  "streamingServices": [
+    {
+      "films": [
+        "tt0096697",
+        "tt7631058",
+        "tt3526078"
+      ],
+      "service": "Netflix"
+    },
+    {
+      "films": [
+        "tt3526078",
+        "tt0096697",
+        "tt12262202"
+      ],
+      "service": "HBO"
+    },
+    {
+      "films": [
+        "tt0096697",
+        "tt3526078",
+        "tt7631058"
+      ],
+      "service": "Disney+"
+    }
+  ]
 }
