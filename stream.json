@@ -2,7 +2,7 @@
   "streamingServices": [
     {
       "service": "Netflix",
-      "films": ["tt4574334", "tt5180504", "tt10919420"]
+      "films": ["tt4574334", "tt5180504", "tt10919420", "tt6468322", "tt4786824"]
     },
     {
       "service": "Prime",
@@ -14,7 +14,7 @@
     },
     {
       "service": "Apple",
-      "films": ["tt10986410", "tt11280740", "tt7203552"]
+      "films": ["tt10986410", "tt11280740", "tt7203552", "tt0804484"]
     },
     {
       "service": "HBO",
