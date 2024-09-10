@@ -5,11 +5,23 @@
       "films": ["tt0096697", "tt7631058", "tt3526078"]
     },
     {
+      "service": "Prime",
+      "films": ["tt0096697", "tt7631058", "tt3526078"]
+    },
+    {
+      "service": "Disney",
+      "films": ["tt0096697", "tt7631058", "tt3526078"]
+    },
+    {
+      "service": "Apple",
+      "films": ["tt0096697", "tt7631058", "tt3526078"]
+    },
+    {
       "service": "HBO",
       "films": ["tt3526078", "tt0096697", "tt12262202"]
     },
     {
-      "service": "Disney+",
+      "service": "Hulu",
       "films": ["tt0096697", "tt3526078", "tt7631058"]
     }
   ]
